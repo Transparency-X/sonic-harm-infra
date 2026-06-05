@@ -1,0 +1,134 @@
+projects:
+  - name: SonicHarm
+    full_title: "Sonic Harm Registry (SHR) v2.0"
+    domain: "Core taxonomy"
+    description: "Central taxonomy and registry for the Sonic Harm research programme"
+    topics:
+      - sonic-harm
+      - taxonomy
+
+  - name: SonicMap-Gov
+    full_title: "Irish Government Departmental Impact Mapping v3.0"
+    domain: "Institutional"
+    description: "Mapping sonic harm across Irish government departments"
+    topics:
+      - sonic-harm
+      - government
+      - mapping
+
+  - name: SonicMap-Civil
+    full_title: "Civil & Commercial Impact Mapping v1.0"
+    domain: "Civil society"
+    description: "Civil and commercial sector impact mapping for sonic harm"
+    topics:
+      - sonic-harm
+      - civil-society
+      - mapping
+
+  - name: SonicShield
+    full_title: "LGBTQ+ Sonic Harm & Tech Abuse Survival Toolkit v1.0"
+    domain: "Survivor support"
+    description: "Survival toolkit for LGBTQ+ individuals facing sonic harm and tech abuse"
+    topics:
+      - sonic-harm
+      - lgbtq
+      - survivor-support
+
+  - name: SonicIndex
+    full_title: "National Sonic Harm Index (SHII / CSHII)"
+    domain: "Metrics"
+    description: "National composite index measuring sonic harm"
+    topics:
+      - sonic-harm
+      - metrics
+      - index
+
+  - name: SonicEvidence
+    full_title: "Acoustic Forensics Evidence Standard"
+    domain: "Forensics"
+    description: "Standard for acoustic forensics evidence collection and analysis"
+    topics:
+      - sonic-harm
+      - forensics
+      - evidence
+
+  - name: SonicAlert
+    full_title: "Real-Time Acoustic Threat Detection System"
+    domain: "Technology"
+    description: "Real-time detection of acoustic threats using machine learning"
+    topics:
+      - sonic-harm
+      - detection
+      - machine-learning
+
+  - name: SonicArchive
+    full_title: "Acoustic Heritage Preservation Initiative"
+    domain: "Culture"
+    description: "Preserving at-risk acoustic heritage and soundscapes"
+    topics:
+      - sonic-harm
+      - culture
+      - heritage
+
+  - name: SonicPolicy
+    full_title: "Legislative Advocacy & Gap Analysis Framework"
+    domain: "Policy"
+    description: "Legislative gap analysis and advocacy framework for sonic harm"
+    topics:
+      - sonic-harm
+      - policy
+      - advocacy
+
+  - name: SonicTrain
+    full_title: "Professional Capacity-Building Programme"
+    domain: "Education"
+    description: "Training modules and capacity-building for sonic harm professionals"
+    topics:
+      - sonic-harm
+      - education
+      - training
+
+  - name: SonicWatch
+    full_title: "Community Acoustic Monitoring Network"
+    domain: "Grassroots"
+    description: "Community-driven acoustic monitoring tools and protocols"
+    topics:
+      - sonic-harm
+      - community
+      - monitoring
+
+  - name: SonicSafe
+    full_title: "Smart Acoustic Environment Design Toolkit"
+    domain: "Architecture"
+    description: "Design toolkit for safe acoustic environments"
+    topics:
+      - sonic-harm
+      - architecture
+      - design
+
+  - name: SonicLit
+    full_title: "Sonic Harm Case Law Digest"
+    domain: "Jurisprudence"
+    description: "Digest of case law related to sonic harm"
+    topics:
+      - sonic-harm
+      - jurisprudence
+      - case-law
+
+  - name: SonicData
+    full_title: "Anonymised Harm Incident Database"
+    domain: "Research"
+    description: "Anonymised database of sonic harm incidents for research"
+    topics:
+      - sonic-harm
+      - data
+      - research
+
+  - name: SonicGlobal
+    full_title: "International Sonic Harm Comparator"
+    domain: "Transnational"
+    description: "International comparison tool for sonic harm legislation and prevalence"
+    topics:
+      - sonic-harm
+      - international
+      - comparator
